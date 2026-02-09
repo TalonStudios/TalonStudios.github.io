@@ -1,0 +1,54 @@
+{
+
+    "Games": [
+
+        {
+            "id": 1,
+            "project_title": "Heart of the Cards",
+            "price": 500,
+            "project_finished": false,
+            "project_released": false,
+            "genre": "strategy, cardgame"
+        },
+        {
+            "id": 2,
+            "project_title": "Deadspace IV",
+            "price": 350,
+            "project_finished": true,
+            "project_released": true,
+            "genre": "horror, puzzle"
+        },
+        {
+            "id": 3,
+            "project_title": "Ant Hill",
+            "price": 890,
+            "project_finished": true,
+            "project_released": false,
+            "genre": "metroidvania, puzzle"
+        },
+                {
+            "id": 4,
+            "project_title": "Idle Revolution",
+            "price": 630,
+            "project_finished": true,
+            "project_released": true,
+            "genre": "idle, clicker"
+        },
+        {
+            "id": 5,
+            "project_title": "Thinking with Objects",
+            "price": 785,
+            "project_finished": true,
+            "project_released": true,
+            "genre": "puzzle, building"
+        },
+        {
+            "id": 6,
+            "project_title": "Sunrise Road",
+            "price": 230,
+            "project_finished": true,
+            "project_released": true,
+            "genre": "scroller, twobutton"
+        }
+    ]
+}
