@@ -53,7 +53,7 @@
                 {
             "id": 7,
             "project_title": "Super Larry Bros",
-            "price": 55,
+            "price": 250,
             "project_finished": true,
             "project_released": true,
             "genre": "sidescroller, simple"
@@ -61,7 +61,7 @@
                 {
             "id": 8,
             "project_title": "Tetris But Bad",
-            "price": 12,
+            "price": 120,
             "project_finished": true,
             "project_released": true,
             "genre": "puzzle, stacking"
@@ -69,3 +69,4 @@
     ]
 
 }
+
