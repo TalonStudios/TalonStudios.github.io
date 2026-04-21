@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000/api'
+const API_URL = 'https://talonstudios-github-io.onrender.com/api'
 
 // ================= REGISTER =================
 const registerForm = document.getElementById('register-container')
